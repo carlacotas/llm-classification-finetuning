@@ -1,7 +1,7 @@
 # Kaggle 'Competitions': LLM Classification Finetuning
 # _Finetune LLMs to Predict Human Preference using Chatbot Arena conversations_
 
-This project contains a solution for the [LLM Classification Finetuning](https://www.kaggle.com/competitions/llm-classification-finetuning) competition on Kaggle
+This project contains a solution for the [LLM Classification Finetuning](https://www.kaggle.com/competitions/llm-classification-finetuning) competition on Kaggle - [kaggle notebook](https://www.kaggle.com/code/carlacotas/llm-classification-finetuning)
 
 **Main objective:** Predict which responses users will prefer in a head-to-head battle between chatbots powered by large language models(LLMs).
 
