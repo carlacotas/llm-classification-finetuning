@@ -1,8 +1,3 @@
-# llm-classification-finetuning
-This repo contains a solution for the kaggle competition "LLM Classification Finetuning"
-
-
-
 # kaggle 'Competitions': LLM Classification Finetuning
 # _Finetune LLMs to Predict Human Preference using Chatbot Arena conversations_
 
